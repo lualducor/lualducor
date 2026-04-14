@@ -75,6 +75,6 @@
 &nbsp;
 [![Gmail](https://img.shields.io/badge/lualducor@gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=00f3ff)](mailto:lualducor@gmail.com)
 &nbsp;
-![visitors](https://komarev.com/ghpvc/?username=lualducor&style=flat-square&color=00f3ff&label=visitors&labelColor=003344)
+![visitors](https://komarev.com/ghpvc/?username=lualducor&style=flat-square&color=0d1117&label=visitors&labelColor=003344)
 
 </div>
