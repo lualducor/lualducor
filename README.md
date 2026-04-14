@@ -15,9 +15,9 @@
 
 <div align="center">
 
-![building](https://img.shields.io/badge/building-lucholabs.dev-00f3ff?style=flat-square&labelColor=0d1117&logo=react&logoColor=39ff14)
+![building](https://img.shields.io/badge/building-lucholabs.dev-0d1117?style=flat-square&labelColor=003344&logo=react&logoColor=00f3ff)
 &nbsp;
-![location](https://img.shields.io/badge/bogot%C3%A1%2C_colombia-remote_%2F_US_TZ-39ff14?style=flat-square&labelColor=0d1117)
+![location](https://img.shields.io/badge/bogot%C3%A1%2C_colombia-remote_%2F_US_TZ-0d1117?style=flat-square&labelColor=0a2010)
 
 </div>
 
