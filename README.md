@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:0d1117,50:003344,100:0d1117&stroke=00f3ff&strokeWidth=2&text=lualducor&fontColor=00f3ff&fontSize=52&fontAlignY=65&desc=implementation%20%2F%20automation%20engineer&descColor=39ff14&descSize=16&descAlignY=82&animation=fadeIn" />
-  <img src="https://capsule-render.vercel.app/api?type=wave&height=200&color=gradient&customColorList=0,2,2,5,30&text=lualducor&fontColor=0d1117&fontSize=52&fontAlignY=65&desc=implementation%20%2F%20automation%20engineer&descColor=003344&descSize=16&descAlignY=82&animation=fadeIn" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,100:003344&fontColor=00f3ff&fontSize=52&text=lualducor&fontAlignY=45&desc=implementation%20%2F%20automation%20engineer&descColor=39ff14&descSize=16&descAlignY=65&stroke=00f3ff&strokeWidth=1" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:e8f4f8,100:b8d4e8&fontColor=0d1117&fontSize=52&text=lualducor&fontAlignY=45&desc=implementation%20%2F%20automation%20engineer&descColor=003344&descSize=16&descAlignY=65" width="100%" />
 </picture>
 
 <br/>
