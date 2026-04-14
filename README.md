@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,100:003344&fontColor=00f3ff&fontSize=52&text=lualducor&fontAlignY=45&desc=implementation%20%2F%20automation%20engineer&descColor=39ff14&descSize=16&descAlignY=65&stroke=00f3ff&strokeWidth=1" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:e8f4f8,100:b8d4e8&fontColor=0d1117&fontSize=52&text=lualducor&fontAlignY=45&desc=implementation%20%2F%20automation%20engineer&descColor=003344&descSize=16&descAlignY=65" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=lualducor&fontSize=52&fontColor=00f3ff&animation=fadeIn&fontAlignY=38&desc=implementation%20%2F%20automation%20engineer&descAlignY=60&descColor=39ff14&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=e8f4f8&height=200&section=header&text=lualducor&fontSize=52&fontColor=0d1117&animation=fadeIn&fontAlignY=38&desc=implementation%20%2F%20automation%20engineer&descAlignY=60&descColor=003344&descSize=16" width="100%" />
 </picture>
 
 <br/>
