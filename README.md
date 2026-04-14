@@ -56,17 +56,6 @@
 
 <div align="center">
 
-<a href="https://github.com/lualducor">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lualducor&show_icons=true&theme=transparent&hide_border=true&title_color=00f3ff&icon_color=39ff14&text_color=a9fef7&bg_color=0d1117&ring_color=00f3ff&include_all_commits=true&count_private=true" />
-</a>
-<a href="https://github.com/lualducor">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lualducor&layout=compact&theme=transparent&hide_border=true&title_color=00f3ff&text_color=a9fef7&bg_color=0d1117&langs_count=6&hide=html,css" />
-</a>
-
-</div>
-
-<div align="center">
-
 <img src="https://streak-stats.demolab.com?user=lualducor&theme=transparent&hide_border=true&ring=00f3ff&fire=39ff14&currStreakLabel=00f3ff&sideLabels=a9fef7&dates=a9fef7&currStreakNum=00f3ff&sideNums=39ff14&background=0d1117" height="130" />
 
 </div>
