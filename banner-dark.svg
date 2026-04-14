@@ -1,0 +1,41 @@
+<svg width="900" height="160" viewBox="0 0 900 160" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#00f3ff" stroke-width="0.2" opacity="0.12"/>
+    </pattern>
+    <linearGradient id="wavefade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#003344" stop-opacity="0.0"/>
+      <stop offset="100%" stop-color="#003344" stop-opacity="0.7"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="160" fill="#0d1117"/>
+
+  <!-- Grid overlay -->
+  <rect width="900" height="160" fill="url(#grid)"/>
+
+  <!-- Wave shape bottom -->
+  <path d="M0,120 Q225,95 450,118 Q675,142 900,115 L900,160 L0,160 Z" fill="url(#wavefade)"/>
+
+  <!-- Bottom accent line -->
+  <rect x="0" y="157" width="900" height="2" fill="#00f3ff" opacity="0.4"/>
+
+  <!-- Left accent bar -->
+  <rect x="0" y="0" width="3" height="160" fill="#00f3ff"/>
+
+  <!-- Prompt symbol -->
+  <text x="30" y="78" font-family="'Courier New', monospace" font-size="46" font-weight="bold" fill="#00f3ff" opacity="0.18">▋</text>
+
+  <!-- Main title -->
+  <text x="30" y="78" font-family="'Courier New', monospace" font-size="46" font-weight="bold" fill="#00f3ff" letter-spacing="3">lualducor</text>
+
+  <!-- Subtitle -->
+  <text x="33" y="112" font-family="'Courier New', monospace" font-size="14" fill="#39ff14" letter-spacing="1.5">implementation / automation engineer</text>
+
+  <!-- Location annotation -->
+  <text x="33" y="138" font-family="'Courier New', monospace" font-size="11" fill="#a9fef7" opacity="0.45">// bogotá, colombia · remote / US timezones</text>
+
+  <!-- Right decoration -->
+  <text x="720" y="90" font-family="'Courier New', monospace" font-size="72" fill="#00f3ff" opacity="0.04" letter-spacing="-2">{_ }</text>
+</svg>
