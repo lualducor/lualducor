@@ -73,6 +73,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=00f3ff)](https://www.linkedin.com/in/luis-alberto-duarte-97748171/)
 &nbsp;
+[![Gmail](https://img.shields.io/badge/lualducor@gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=00f3ff)](mailto:lualducor@gmail.com)
+&nbsp;
 ![visitors](https://komarev.com/ghpvc/?username=lualducor&style=flat-square&color=00f3ff&label=visitors&labelColor=003344)
 
 </div>
