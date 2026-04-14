@@ -84,6 +84,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=00f3ff)](https://www.linkedin.com/in/YOUR_SLUG_HERE)
 &nbsp;
-![visitors](https://visitor-badge.liteflare.com/badge?page_id=lualducor.lualducor&left_color=003344&right_color=00f3ff&left_text=visitors)
+![visitors](https://komarev.com/ghpvc/?username=lualducor&style=flat-square&color=00f3ff&label=visitors&labelColor=003344)
 
 </div>
