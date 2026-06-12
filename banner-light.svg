@@ -1,38 +1,62 @@
-<svg width="900" height="160" viewBox="0 0 900 160" xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="260" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Luis Alberto Duarte Cortes GitHub banner light theme</title>
+  <desc id="desc">Light profile banner with the name lualducor, a subtitle about accessibility and trust infrastructure, and a side panel listing focus areas.</desc>
   <defs>
-    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
-      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#0d1117" stroke-width="0.2" opacity="0.08"/>
-    </pattern>
-    <linearGradient id="wavefade" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#c8dff0" stop-opacity="0.0"/>
-      <stop offset="100%" stop-color="#c8dff0" stop-opacity="0.8"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f7f3e8"/>
+      <stop offset="100%" stop-color="#eef8f6"/>
     </linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.88"/>
+      <stop offset="100%" stop-color="#dceeea" stop-opacity="0.98"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0b776f" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#0b776f" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="#0d1117" stroke-width="0.5" opacity="0.08"/>
+    </pattern>
   </defs>
 
-  <!-- Background -->
-  <rect width="900" height="160" fill="#f0f6ff"/>
+  <rect width="1200" height="260" fill="url(#bg)"/>
+  <rect width="1200" height="260" fill="url(#grid)"/>
+  <rect x="0" y="0" width="6" height="260" fill="#0b776f"/>
+  <ellipse cx="320" cy="28" rx="340" ry="150" fill="url(#glow)"/>
+  <path d="M0,204 C180,176 338,232 515,212 C674,194 799,146 1200,186 L1200,260 L0,260 Z" fill="#d8ebe8" opacity="0.95"/>
+  <rect x="822" y="32" width="328" height="168" rx="18" fill="url(#panel)" stroke="#0b776f" stroke-opacity="0.22"/>
+  <rect x="822" y="212" width="328" height="8" rx="4" fill="#0b776f" opacity="0.35"/>
 
-  <!-- Grid overlay -->
-  <rect width="900" height="160" fill="url(#grid)"/>
+  <text x="42" y="46" font-family="monospace" font-size="16" letter-spacing="2.6" fill="#36554f" opacity="0.92">
+    FORWARD-DEPLOYED ENGINEERING // BOGOTA -&gt; REMOTE
+  </text>
+  <text x="42" y="118" font-family="monospace" font-size="66" font-weight="700" letter-spacing="3" fill="#0d1117">
+    lualducor
+  </text>
+  <text x="44" y="160" font-family="monospace" font-size="24" fill="#0b4d48">
+    accessibility + trust infrastructure
+  </text>
+  <text x="44" y="204" font-family="monospace" font-size="18" fill="#36554f" opacity="0.9">
+    python  .  fastapi  .  local-first systems  .  ai security
+  </text>
 
-  <!-- Wave shape bottom -->
-  <path d="M0,120 Q225,95 450,118 Q675,142 900,115 L900,160 L0,160 Z" fill="url(#wavefade)"/>
+  <text x="850" y="64" font-family="monospace" font-size="14" letter-spacing="2.2" fill="#36554f">
+    CURRENT VECTORS
+  </text>
 
-  <!-- Bottom accent line -->
-  <rect x="0" y="157" width="900" height="2" fill="#0099bb" opacity="0.5"/>
+  <rect x="850" y="82" width="112" height="28" rx="14" fill="#f8fcfb" stroke="#0b776f" stroke-opacity="0.3"/>
+  <text x="869" y="101" font-family="monospace" font-size="13" fill="#0b4d48">local-first</text>
 
-  <!-- Left accent bar -->
-  <rect x="0" y="0" width="3" fill="#0099bb" height="160"/>
+  <rect x="972" y="82" width="132" height="28" rx="14" fill="#f8fcfb" stroke="#0b776f" stroke-opacity="0.3"/>
+  <text x="986" y="101" font-family="monospace" font-size="13" fill="#0b4d48">accessibility</text>
 
-  <!-- Main title -->
-  <text x="30" y="78" font-family="'Courier New', monospace" font-size="46" font-weight="bold" fill="#0d1117" letter-spacing="3">lualducor</text>
+  <rect x="850" y="120" width="155" height="28" rx="14" fill="#f8fcfb" stroke="#0b776f" stroke-opacity="0.3"/>
+  <text x="864" y="139" font-family="monospace" font-size="13" fill="#0b4d48">prompt injection</text>
 
-  <!-- Subtitle -->
-  <text x="33" y="112" font-family="'Courier New', monospace" font-size="14" fill="#005533" letter-spacing="1.5">implementation / automation engineer</text>
+  <rect x="1015" y="120" width="89" height="28" rx="14" fill="#f8fcfb" stroke="#0b776f" stroke-opacity="0.3"/>
+  <text x="1034" y="139" font-family="monospace" font-size="13" fill="#0b4d48">latam</text>
 
-  <!-- Location annotation -->
-  <text x="33" y="138" font-family="'Courier New', monospace" font-size="11" fill="#334455" opacity="0.6">// bogotá, colombia · remote / US timezones</text>
-
-  <!-- Right decoration -->
-  <text x="720" y="90" font-family="'Courier New', monospace" font-size="72" fill="#0d1117" opacity="0.04" letter-spacing="-2">{_ }</text>
+  <text x="853" y="180" font-family="monospace" font-size="44" fill="#0b776f" opacity="0.08">
+    /&gt;_ build
+  </text>
 </svg>
